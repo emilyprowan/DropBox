@@ -19,7 +19,7 @@ Time: I spent 12 hours on the exercise
 
 ##Video Walkthrough
 
-![Video Walkthrough] (https://cloud.githubusercontent.com/assets/14241499/9843474/6dbbe4be-5a6f-11e5-8725-6a5ad73e011f.gif)
+![dropbox_demo](https://cloud.githubusercontent.com/assets/14241499/10011026/33b3d03e-60a9-11e5-96f5-9c378e8dba53.gif)
 
 ##What did I miss?
 I ran out of time to attempt the optional features - will need to budget better next time!
